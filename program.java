@@ -3,7 +3,9 @@
  */
 public class program {
     public static void main(String[] args) {
-        System.out.println("world");
+        int a = 54;
+        int b = 42;
+        System.out.println(a*b);
     }
     
 }
